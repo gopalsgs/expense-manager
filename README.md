@@ -1,16 +1,24 @@
-# expense_manager
+# Expense Manager
 
-A new Flutter project.
+## How to use
 
-## Getting Started
+- For LogingIn 
 
-This project is a starting point for a Flutter application.
+Install the app and Click on ```Login Anonymously```
 
-A few resources to get you started if this is your first Flutter project:
+- In Home Screen
 
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
+HomeScreen Lists all the transactions. There is a DropDown Button in the App bar name ```All Categories```. 
+You can Click on that and select the Particular category for which you want to see the transactions.
 
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+- Adding New Transaction
+
+Click on ```+ Button (Floating Action Button)``` to add new expense (Transaction).
+You can Select Transaction Category and add remarks and then click ```ADD``` Button to save the transaction.
+
+Click on ``Add new Category`` Button to add new Category.
+
+
+## Apk link
+
+- [Expense Manager App Download Apk ](https://drive.google.com/file/d/1_xCzgI6EQoDZEtYsv4B7cUV98Ayr63xY/view?usp=sharing)
