@@ -21,7 +21,7 @@ class _NewItemState extends State<NewItem> {
   final priceFocus = FocusNode();
 
   void _onSubmit(context) async {
-    if (provider.selectedCategory.id.isNotEmpty) {
+    if (provider.selectedCategory.id.isEmpty) {
       UIUtils.showSnackBar(
         context: context,
         text: 'Select a Category',
