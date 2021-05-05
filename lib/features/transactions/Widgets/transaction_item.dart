@@ -1,5 +1,5 @@
-import 'package:cloud_firestore/cloud_firestore.dart';
-import '../../model/transaction_model.dart';
+
+import 'package:expense_manager/model/transaction_model.dart';
 import 'package:flutter/material.dart';
 
 class TransactionItemWidget extends StatelessWidget {
