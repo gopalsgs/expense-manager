@@ -1,5 +1,5 @@
 import 'package:cloud_firestore/cloud_firestore.dart';
-import 'package:expense_manager/model/transaction_model.dart';
+import '../model/transaction_model.dart';
 import 'package:firebase_auth/firebase_auth.dart';
 
 class TransactionRepo {

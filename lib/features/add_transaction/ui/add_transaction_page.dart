@@ -1,6 +1,6 @@
-import 'package:expense_manager/core/ui_util.dart';
-import 'package:expense_manager/model/category_model.dart';
-import 'package:expense_manager/model/transaction_model.dart';
+import '../../../core/ui_util.dart';
+import '../../../model/category_model.dart';
+import '../../../model/transaction_model.dart';
 
 import '../bloc/add_transaction_bloc.dart';
 import '../../categories/bloc/categories_bloc.dart';

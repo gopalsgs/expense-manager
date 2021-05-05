@@ -1,5 +1,5 @@
-import 'package:expense_manager/core/ui_util.dart';
-import 'package:expense_manager/model/category_model.dart';
+import '../../../core/ui_util.dart';
+import '../../../model/category_model.dart';
 import 'package:flutter/material.dart';
 import 'package:flutter/src/widgets/framework.dart';
 

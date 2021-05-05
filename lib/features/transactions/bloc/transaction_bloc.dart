@@ -1,7 +1,7 @@
-import 'package:expense_manager/core/base_bloc.dart';
-import 'package:expense_manager/model/category_model.dart';
-import 'package:expense_manager/model/transaction_model.dart';
-import 'package:expense_manager/repo/transaction_repo.dart';
+import '../../../core/base_bloc.dart';
+import '../../../model/category_model.dart';
+import '../../../model/transaction_model.dart';
+import '../../../repo/transaction_repo.dart';
 
 class TransactionBloc extends BaseBloc {
   final _repo = TransactionRepo();

@@ -1,5 +1,5 @@
-import 'package:expense_manager/model/category_model.dart';
-import 'package:expense_manager/model/transaction_model.dart';
+import '../../../model/category_model.dart';
+import '../../../model/transaction_model.dart';
 
 import '../../../core/base_bloc.dart';
 import '../../../repo/transaction_repo.dart';
